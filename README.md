@@ -9,4 +9,4 @@ The project contain two directories:
 To launch
 
 `TMP`: Add the project to the Unity Hub and open with Unity Editor. `SpriteRuntime.cs` file contains the logic for conversion.
-`TMP_Build`: Open the project with VS Code and using the `LiveServer` extension, launch it (it will be launched on http://localhost:5500 by default). The `editor-content.json`, located in the root folder of the project contains the data (`EditorContentDTO`) that is used to render the content.
+`TMP_Build`: Open the project with VS Code and using the `LiveServer` extension, launch it (it will be launched on http://localhost:5500 by default). The `editor-content.json`, located at the root contains the data (`EditorContentDTO`) that is used to render the content.
