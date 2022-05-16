@@ -1,0 +1,16 @@
+{
+  "name": "tmp-demo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arayik-99/tmp-demo.git",
+  "author": "arayik-99 <hovhannisyanara99@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}

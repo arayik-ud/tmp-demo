@@ -1,12 +1,13 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
 namespace Assets
 {
     [Serializable]
-    public class EditorContentDTO
+    public class EditorContentDto
     {
         public string text;
-        public string imageUrl;
+        public List<string> images;
         public int scale;
     }
 }
